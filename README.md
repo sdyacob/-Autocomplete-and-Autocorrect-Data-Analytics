@@ -16,7 +16,6 @@ This project explores the accuracy and efficiency of **autocomplete** and **auto
 
 
 ## 📂 Dataset
-- **Source**: [Insert Dataset Link Here]
 - **Description**: A mix of informal and formal texts from public datasets like Wikipedia, Reddit comments, or SMS corpora.
 
 
@@ -65,7 +64,6 @@ This project explores the accuracy and efficiency of **autocomplete** and **auto
 
 ## 📈 Results
 - Built baseline autocomplete/autocorrect using classic and ML-based methods
-- Achieved [Insert Your Results Here]
 - Compared models across speed, memory, and accuracy
 - Insights visualized through rich plots and reports
 
